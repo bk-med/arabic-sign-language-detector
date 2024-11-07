@@ -32,7 +32,7 @@ pip install -r requirements.txt
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Abderahmanvt7/arabic-sign-language-detector.git
+   git clone https://github.com/bk-med/arabic-sign-language-detector.git
    cd arabic-sign-language-detector
    ```
 
@@ -91,7 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any problems or have suggestions:
 
-1. Check the [Issues](https://github.com/Abderahmanvt7/arabic-sign-language-detector/issues) page
+1. Check the [Issues](https://github.com/bk-med/arabic-sign-language-detector/issues) page
 2. Create a new issue if needed
 3. Contact the maintainers
 
@@ -101,4 +101,4 @@ This project is part of an ongoing effort to make technology more accessible and
 
 ---
 
-Made with ❤️ by [Abderahman HAMILI](https://github.com/Abderahmanvt7)
+Made with ❤️ by [Sid'Ahmed Elbekay](https://github.com/bk-med)
